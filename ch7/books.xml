@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="books.css"?> 
+
+<bookstore>
+  <book category = "myInfo">
+  </book>
+
+  <book category = "Children">
+    <title>Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>29.99</price>
+  </book>
+  
+  <book category = "Fantasy">
+    <title>The Maze Runner</title>
+    <author>John James dashner</author>
+    <year>1954</year>
+    <price>14.42</price>
+  </book>
+
+  <book category = "Children">
+    <title>Wonder</title>
+    <author>Raquel Jaramillo Palacio</author>
+    <year>2012</year>
+    <price>12.54</price>
+  </book>
+
+  <book category = "Diary">
+    <title>The Diary of Anne Frank</title>
+    <author>Annelies Marie</author>
+    <year>1881</year>
+    <price>17.88</price>
+  </book>
+
+  <book category = "Fantasy">
+    <title>Hunger Game</title>
+    <author>Suzanne Collins</author>
+    <year>2008</year>
+    <price>19.55</price>
+  </book>
+
+  <book category = "Fiction">
+    <title>Anne of Green Gables</title>
+    <author>Lucy Maud Montgomery</author>
+    <year>1908</year>
+    <price>14.90</price>
+  </book>
+
+<book category = "Children">
+    <title>Le Petit Prince</title>
+    <author>Antoine de Saint-Exupéry</author>
+    <year>1943</year>
+    <price>21.00</price>
+  </book>
+
+  <book category = "Children">
+   <title>Meu My Sweet Orange Tree</title>
+    <author>José Mauro de Vasconcelos</author>
+   <year>1968</year>
+   <price>15.00</price>
+  </book>
+
+  <book category = "Children">
+    <title>ALICE'S ADVENTURES IN WONDERLAND</title>
+    <author>Lewis Carroll</author>
+    <year>1865</year>
+    <price>14.80</price>
+  </book>
+
+  <book category = "Fiction">
+    <title>The Queen's Gambit</title>
+    <author>Walter Tevis</author>
+    <year>1983</year>
+    <price>20.00</price>
+  </book>
+  
+
+</bookstore>

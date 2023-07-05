@@ -1,0 +1,24 @@
+bookstore{
+    background-color:antiquewhite;
+    width:100%;
+}
+book
+{
+    display: block;
+    margin-top: 12pt;
+    font-size: 10pt;
+}
+title
+{   display: block;
+    font-style: italic;  font-weight: bold;
+}
+author
+{   display: block; font-style: italic;}
+
+year{
+    display: block; font-style: normal;
+}
+
+price{
+    display: block; font-style: normal;
+}
